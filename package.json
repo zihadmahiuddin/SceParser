@@ -1,0 +1,18 @@
+{
+  "name": "sce_parser",
+  "version": "1.0.0",
+  "description": "A simple script to parse SCE(Supercell logfile) files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mahi-Uddin/SceParser.git"
+  },
+  "author": "Zihad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahi-Uddin/SceParser/issues"
+  }
+}
